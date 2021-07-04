@@ -1,0 +1,5 @@
+{
+"name": "Robin",
+"Age":24,
+"Isadmin":"False"
+}
